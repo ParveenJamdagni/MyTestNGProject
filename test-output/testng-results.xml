@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10771" started-at="2017-08-28T16:05:48Z" finished-at="2017-08-28T16:05:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10771" started-at="2017-08-28T16:05:48Z" finished-at="2017-08-28T16:05:59Z">
+      <class name="saucetest.TestClass">
+        <test-method status="PASS" signature="SampleTest()" name="SampleTest" duration-ms="10765" started-at="2017-08-28T16:05:48Z" finished-at="2017-08-28T16:05:59Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
